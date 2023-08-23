@@ -17,4 +17,4 @@
 |[Прогнозирование количества заказов такси на следующий час](https://github.com/oliabo/Portfolio/tree/main/Taxi%20Ordering)|Машинное обучение|Python, Pandas, Scikit-learn|Разработка системы предсказания объема заказа|
 |[Обучение модели классификации комментариев](https://github.com/oliabo/Portfolio/tree/main/Online%20Store)|NLP, Машинное обучение|Python, Pandas, BERT, nltk, tf-idf|Определение токсичности комментарии|
 |[Обработка фотографий покупателя](https://github.com/oliabo/Portfolio/tree/main/Customers%20photo)|Машинное обучение, CV|Python, Keras|Определение возраста по фотографии|
-|Прогнозирование оттока телеком компании или прогноз температуры стали во время плавки|Машинное обучение|Python, Pandas, Matplotlib, Scikit-learn|Прогнозирование оттока телеком компании или прогноз температуры стали во время плавки|
+|[Прогнозирование оттока телеком компании или прогноз температуры стали во время плавки](https://github.com/oliabo/Portfolio/tree/main/Customer%20Churn%20Telecom)|Машинное обучение|Python, Pandas, Matplotlib, Scikit-learn|Прогнозирование оттока телеком компании или прогноз температуры стали во время плавки|
