@@ -16,5 +16,5 @@
 |Исследование базы данных сервиса Stackoverflow|Data Analyst, Аналитик (универсал)|SQL, SQLAlchemy, Python, Pandas, Mathplotlib, Seaborn|Исследование, связанное с базой данных сервиса StackOverflow|
 |[Прогнозирование количества заказов такси на следующий час](https://github.com/oliabo/Portfolio/tree/main/Taxi%20Ordering)|Машинное обучение|Python, Pandas, Scikit-learn|Разработка системы предсказания объема заказа|
 |[Обучение модели классификации комментариев](https://github.com/oliabo/Portfolio/tree/main/Online%20Store)|NLP, Машинное обучение|Python, Pandas, BERT, nltk, tf-idf|Определение токсичности комментарии|
-|Обработка фотографий покупателя|Машинное обучение, CV|Python, Keras|Определение возраста по фотографии|
+|[Обработка фотографий покупателя](https://github.com/oliabo/Portfolio/tree/main/Customers%20photo)|Машинное обучение, CV|Python, Keras|Определение возраста по фотографии|
 |Прогнозирование оттока телеком компании или прогноз температуры стали во время плавки|Машинное обучение|Python, Pandas, Matplotlib, Scikit-learn|Прогнозирование оттока телеком компании или прогноз температуры стали во время плавки|
